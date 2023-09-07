@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-# WinForms Splash Screen - Dislay a splash image with custom information
+# WinForms Splash Screen - Display a splash image with custom information
 
 The [SplashScreenManager.ShowImage](https://docs.devexpress.com/WindowsForms/DevExpress.XtraSplashScreen.SplashScreenManager.ShowImage.overloads) method is used to display a splash image. A custom class (`SplashImagePainter`) is used to draw text labels and progress information. A `SplashImagePainter` object is passed as a parameter to the `ShowImage` method.
 
