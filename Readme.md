@@ -24,7 +24,7 @@ The [SplashScreenManager.ShowImage](https://docs.devexpress.com/WindowsForms/Dev
 * [Splash Image](https://docs.devexpress.com/WindowsForms/10825/controls-and-libraries/forms-and-user-controls/splash-screen-manager/splash-image)
 * [Splash Screen Manager](https://docs.devexpress.com/WindowsForms/10826/controls-and-libraries/forms-and-user-controls/splash-screen-manager)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-show-an-image-as-a-splash-screen-and-draw-custom-information-over-this-image-e3719&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=how-to-show-an-image-as-a-splash-screen-and-draw-custom-information-over-this-image-e3719&~~~was_helpful=no)
 
